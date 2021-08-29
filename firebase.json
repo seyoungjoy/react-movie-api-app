@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "youngsmovie",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
